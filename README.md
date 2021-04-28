@@ -12,6 +12,6 @@ In addition to this:
 
 ## UNET Architecture Visualization
 
-![UNET_MODEL_VISUALIZED](https://github.com/void-in-the-matrix/nuclei-segmentation-unet/blob/main/img_model/unet3.jpg)
+![UNET_MODEL_VISUALIZED](https://github.com/void-in-the-matrix/nuclei-segmentation-unet/blob/main/img_model/UNET_BlockDiagram.jpg)
 
 Refer https://arxiv.org/abs/1505.04597 for the original UNET paper!
